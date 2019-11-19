@@ -1,0 +1,6 @@
+doc/node_modules/**
+doc/node_modules
+.env
+.vs/
+vendor/
+.idea/
